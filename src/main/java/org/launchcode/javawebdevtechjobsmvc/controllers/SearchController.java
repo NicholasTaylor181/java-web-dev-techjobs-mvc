@@ -40,12 +40,6 @@ public class SearchController {
         return "search";
 
 
-
-//        if(searchType.equals("all") || searchTerm.length() == 0) {
-//            return "/list/jobs?column=all";
-//        }
-//        return "results";
-
     }
 
 }
